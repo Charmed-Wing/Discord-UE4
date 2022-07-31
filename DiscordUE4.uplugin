@@ -4,7 +4,7 @@
 	"VersionName": "1.3 (Discord 2.0)",
 	"FriendlyName": "Discord UE4",
 	"Description": "Discord Rich Presence.",
-	"Category": "Satheesh",
+	"Category": "Third Party",
 	"CreatedBy": "Satheesh Pv (ryanjon2040)",
 	"CreatedByURL": "https://unrealxeditor.wordpress.com/",
 	"DocsURL": "",
@@ -13,7 +13,7 @@
 	"CanContainContent": false,
 	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
-	"Installed": true,
+	"Installed": false,
 	"EnabledByDefault": true,
 	"Modules": [
 		{
